@@ -1,0 +1,13 @@
+{
+  "productList": [
+    {
+      "productName": "aaaa",
+      "category": "Fruits",
+      "freshness": "used",
+      "price": 11112222,
+      "comment": "12122",
+      "date": "2022-03-27T16:00:00.000Z",
+      "id": 1
+    }
+  ]
+}
